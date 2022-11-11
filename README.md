@@ -1,5 +1,5 @@
 # I like guys
 
-Lab 10 Repository Example \n
+Lab 10 Repository Example
 
 Lets go
